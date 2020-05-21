@@ -7,7 +7,3 @@ git clone https://github.com/DevanshBordia3008/Network-Scanner.git
 To Run the Tool:
 python network_scanner.py -t <ip/subnet>
 
-or
-
-python network_scanner.py --target <ip/subnet>
-
