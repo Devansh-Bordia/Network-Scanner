@@ -7,6 +7,7 @@ python network_scanner.py -t <ip/subnet>
 
 ### Download
 
-git clone https://github.com/DevanshBordia3008/Network-Scanner.git
-cd NetworkScanner
+1) git clone https://github.com/DevanshBordia3008/Network-Scanner.git
+
+2) cd NetworkScanner
 
