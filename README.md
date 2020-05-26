@@ -1,9 +1,12 @@
 # Network-Scanner
 The Tool is designed to Scan hosts on the Network using Scapy Library by using ARP Protocol.
 
-To Download The Tool:
-git clone https://github.com/DevanshBordia3008/Network-Scanner.git
+## Usage
 
-To Run the Tool:
 python network_scanner.py -t <ip/subnet>
+
+### Download
+
+git clone https://github.com/DevanshBordia3008/Network-Scanner.git
+cd NetworkScanner
 
